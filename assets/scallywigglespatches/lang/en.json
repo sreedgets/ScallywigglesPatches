@@ -1,3 +1,10 @@
 {
-  "item-backpack-sturdy": "Sturdy Backpack (Brass Lantern)"
+  "item-backpack-sturdy": "Sturdy Backpack (Brass Lantern)",
+
+  "item-elvenglaive-*copper": "Elven Glaive (Copper)",
+  "item-elvenglaive-*bronze": "Elven Glaive (Bronze)",
+  "item-elvenglaive-iron": "Elven Glaive (Iron)",
+  "item-elvenglaive-*meteoriciron": "Elven Glaive (Meteoric Iron)",
+  "item-elvenglaive-*steel": "Elven Glaive (Steel)",
+  "itemdesc-elvenglaive-*": "<font color=\"#bced84\">Day shall come again</font>"
 }
