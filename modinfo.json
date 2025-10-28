@@ -1,0 +1,10 @@
+{
+  "type": "Content",
+  "modId": "scallywigglespatches",
+  "name": "Scallywiggles Patches",
+  "authors": [
+    "Ensky"
+  ],
+  "description": "A collection of patches for the Scallywiggles private server to tweak gameplay to our liking.",
+  "version": "0.1.1"
+}

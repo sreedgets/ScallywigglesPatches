@@ -1,0 +1,23 @@
+{
+  "code": "curdledsoyportion",
+  "sealHours": 72,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "expandedfoods:soymilk-raw",
+      "litres": 10
+    },
+    {
+      "type": "item",
+      "code": "game:pickledvegetable-*",
+      "name": "pickledvegetable",
+      "quantity": 1,
+      "allowedVariants": [ "carrot", "onion", "parsnip", "pumpkin", "turnip", "cabbage", "bellpepper" ]
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "game:curdledmilkportion",
+    "litres": 10
+  }
+}
